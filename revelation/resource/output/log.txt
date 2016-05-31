@@ -1,0 +1,10 @@
+resource/TEST/direct/version05.png
+Red,Green,Blue
+1
+direct
+1.000000
+-- arguments passed --
+HELP
+-- stenography started --
+-- stenography in progress --
+-- stenography finish direct --
